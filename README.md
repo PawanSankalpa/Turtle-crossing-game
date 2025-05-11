@@ -1,4 +1,4 @@
-# 🏓 PONG GAME with Python
+# 🐢 Turtle Crossing Game with Python
 
 A fun little game made while practicing Object-Oriented Programming (OOP).
 
